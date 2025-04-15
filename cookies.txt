@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+policy.mtsbu.ua	TRUE	/	FALSE	1999999999	.AspNetCore.Session	CfDJ8OXWr3phFQxMpyx8zyVXJXluDh5aL2ZSsRWdU2cWcDXduMSDQ3Ej8gQ%2BLU%2FMv6C0xFSRdE0fDqRO5g58pcLpyJPmka9BbZCyD4Wwtm4nhExvGCrRmJr9yn1kbCogenYFcxDDNcSY5ecQkz6xHIGJY90fK2rVv460blkeiG9OB8Bt
+policy.mtsbu.ua	TRUE	/	FALSE	1999999999	SameSite	Lax
+
